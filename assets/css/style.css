@@ -104,8 +104,19 @@ th {
 
 #footer {
     background-color: #F3F3F3;
-    padding-top: 10px;
-    padding-bottom: 0px;
+    /* padding-top: 10px;
+    padding-bottom: 22px; */
     height: 32px; /* height + top/bottom paddding + top/bottom border must add up to footer height */
     padding: 8px;
+    padding-bottom: 100px;
+    padding-right: 40px;
+}
+
+#icons {
+    word-spacing: 15px;
+    font-size: larger;
+    color: black;
+    color: rgb(241, 239, 239);
+    text-shadow: 1.5px 1.5px 1.5px rgb(90, 90, 90);
+    font-size: 1.5em;
 }
